@@ -29,7 +29,7 @@ const News = ({
 
   const fetchData = async () => {
     try {
-      const url = `http://localhost:5000/api/news?country=${country}&category=${category}&pageSize=${pageSize}&currentPage=${currentPage}`;
+      const url = `https://flashnews-api.vercel.app/api/news?country=${country}&category=${category}&pageSize=${pageSize}&currentPage=${currentPage}`;
 
       // Fetch data from the backend
       const response = await fetch(url);
