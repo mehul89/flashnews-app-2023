@@ -2,5 +2,6 @@
     "version": 2,
     "builds": [{ "src": "news.js", "use": "@vercel/node" }],
     "routes": [{ "src": "/api/news", "dest": "news.js" }]
-  }
+}
   
+
