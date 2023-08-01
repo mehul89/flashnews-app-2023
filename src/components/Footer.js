@@ -26,11 +26,11 @@ export class Footer extends Component {
               </div>
               <div className="col-md-2">
                 <h6 className="text-uppercase mb-4 font-weight-bold">
-                  Products
+                  website
                 </h6>
                 <p>
                   <a
-                    href="/"
+                    href="https://mehul89.github.io/textutils-app-React/"
                     className={`${darkMode ? "text-white" : "text-black"}`}
                   >
                     Textutils
@@ -38,18 +38,18 @@ export class Footer extends Component {
                 </p>
                 <p>
                   <a
-                    href="/"
+                    href="https://flashnews-letest.web.app/"
                     className={`${darkMode ? "text-white" : "text-black"}`}
                   >
-                    Product 2
+                    Flashnews
                   </a>
                 </p>
                 <p>
                   <a
-                    href="/"
+                    href="https://notionx-note.web.app/"
                     className={`${darkMode ? "text-white" : "text-black"}`}
                   >
-                    Product 3
+                    Notionx
                   </a>
                 </p>
               </div>
