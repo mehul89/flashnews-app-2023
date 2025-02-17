@@ -39,7 +39,7 @@ function App() {
                 currentPage={currentPage}
                 setCurrentPage={setCurrentPage}
                 pageSize={5}
-                country="in"
+                country="us"
                 key="general"
                 category="general"
                 darkMode={darkMode}
@@ -54,7 +54,7 @@ function App() {
                 currentPage={currentPage}
                 setCurrentPage={setCurrentPage}
                 pageSize={5}
-                country="in"
+                country="us"
                 key="business"
                 category="business"
                 darkMode={darkMode}
@@ -69,7 +69,7 @@ function App() {
                 currentPage={currentPage}
                 setCurrentPage={setCurrentPage}
                 pageSize={5}
-                country="in"
+                country="us"
                 key="entertainment"
                 category="entertainment"
                 darkMode={darkMode}
@@ -84,7 +84,7 @@ function App() {
                 currentPage={currentPage}
                 setCurrentPage={setCurrentPage}
                 pageSize={5}
-                country="in"
+                country="us"
                 key="health"
                 category="health"
                 darkMode={darkMode}
@@ -99,7 +99,7 @@ function App() {
                 currentPage={currentPage}
                 setCurrentPage={setCurrentPage}
                 pageSize={5}
-                country="in"
+                country="us"
                 key="science"
                 category="science"
                 darkMode={darkMode}
@@ -114,7 +114,7 @@ function App() {
                 currentPage={currentPage}
                 setCurrentPage={setCurrentPage}
                 pageSize={5}
-                country="in"
+                country="us"
                 key="sports"
                 category="sports"
                 darkMode={darkMode}
@@ -129,7 +129,7 @@ function App() {
                 currentPage={currentPage}
                 setCurrentPage={setCurrentPage}
                 pageSize={5}
-                country="in"
+                country="us"
                 key="technology"
                 category="technology"
                 darkMode={darkMode}

@@ -5,7 +5,7 @@ import { BarLoader } from "react-spinners";
 import PropTypes from "prop-types";
 
 const News = ({
-  country = "in",
+  country = "us",
   category = "general",
   pageSize = 5,
   darkMode,
